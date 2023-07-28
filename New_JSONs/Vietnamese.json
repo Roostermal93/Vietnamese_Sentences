@@ -1,0 +1,205 @@
+{
+    "count": 33,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "123cad32-51dd-4252-b38b-fc10a56436f9",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "23543ffa-622b-4129-ad4e-c57d8ddbc09d",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "2ae79e20-e4fa-48ce-90b6-f8c3b7aa7c4a",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "3c4695a8-8cd6-4f1d-b1b6-d195c162d299",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "47333164-43af-404b-9b60-947bfbc635bc",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "484061b0-967c-4bb9-9b5d-e4c1359f08e6",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "4aae4428-2b33-402a-a585-c8d7c54d2b0e",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "4c788e82-bace-4f84-bb68-84a0c83e144e",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "57ee2545-bd95-4149-bc10-1f3d91110221",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "589f5308-7b9c-4d12-bce0-458fc44d7bb0",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "638f9880-649e-4e65-9afc-ff1ac0ba8fb2",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "67c0d58a-c66e-4025-93af-78074a5e7f9b",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "6a26d732-4d3b-42b9-afce-03b915ea0bcd",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "706d98b4-bc0f-4f98-99ec-935d5f6916cc",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "85ee0603-c473-463a-b6da-9e32ce7993f2",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "90ae6918-8413-4699-8308-af095510a08c",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "92dfad89-5753-4776-a5e3-5332c68017c0",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "a1ebde96-8996-4b89-b2b1-b12dcf952cf8",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "a3c3644e-ff30-48f5-9a2e-ee48f7994405",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "a77074af-747a-4b86-b062-00328ccdf112",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "ab162fa9-95e7-4666-bf2b-50b4334ef6f2",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "d1debfca-6398-46c1-a0bd-b079629979cd",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "d91ae70b-889e-493d-9cad-be043ab37305",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "dca5b938-29b5-4662-aae5-51ddcbb6febd",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "e0289d2a-5642-4cdf-b53a-4f0df666a39a",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "e186c729-046c-436c-92d1-a4c5a072092b",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "e19388cf-28b7-430d-87b0-cdf3252638ef",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "e8faf4cb-0335-4bff-9bd2-d56178438280",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "e9ed15a4-2ec7-43cf-88c1-03d71a3322db",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "e9f1059a-653f-472e-9d31-0999b231232b",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "f02238b0-57d4-4174-a12c-0348c2a4d22d",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "f18fd5cf-25e7-494a-9e63-f63b6153d098",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "f28b5199-3d60-4752-ade7-89431843ea51",
+            "collectionId": "Vietnamese",
+            "type": "Sentences",
+            "status": "private"
+        }
+    ]
+}
